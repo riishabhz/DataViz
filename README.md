@@ -4,4 +4,4 @@
 https://github.com/riishabhz/DataViz/tree/main/PBI/HR%20Analytics
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tableau/Netflix Dashboard.twbx
+[Tableau/Netflix Dashboard.twbx](https://github.com/riishabhz/DataViz/blob/main/Tableau/Netflix%20Dashboard.twbx)
