@@ -6,3 +6,5 @@ https://github.com/riishabhz/DataViz/tree/main/PBI/HR%20Analytics
 https://github.com/riishabhz/DataViz/blob/main/Tableau/tableau%20snip.png
 [Tableau/Netflix Dashboard.twbx](https://github.com/riishabhz/DataViz/blob/main/Tableau/Netflix%20Dashboard.twbx)
 ![screenshot](screenshot.png)
+
+![screenshot](tableau snip.png)
